@@ -1,0 +1,39 @@
+.nav-link {
+    color: #000000;
+}
+.cat1 img{
+    width: 150px;
+}
+.btn{
+    border-radius: 25px;
+}
+.container{
+    margin-bottom: 100px;
+}
+.cat2{
+    color: #FD511A;
+}
+.black{
+    color: #000000;
+}
+.light_green{
+    color: #21B573;
+}
+.black ,.light_green{
+    font-weight:700;
+}
+.cat3{
+    color: lightgray;
+}
+.cat4 img{
+    width: 100%;
+}
+.light_green-bg{
+    background-color: #F0FFF0;
+}
+.cat5{
+    margin-bottom: 50px;
+}
+.cat6{
+    padding: 20px 40px;
+}
